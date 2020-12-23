@@ -1,0 +1,15 @@
+{
+  "name": "parking-permits-enforcement",
+  "version": "1.0.0",
+  "description": "Code for a lambda function that will return all permits for a registration plate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
